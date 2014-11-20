@@ -6,7 +6,7 @@ install:
  - wget http://tfi.io/1t6nEa8
  - ls -alF
  - tar -xvf 1t6nEa8
- - sudo mv 1t6nEa8/ /usr/local/share/arduino
+ - sudo mv arduino-1.5.8 /usr/local/share/arduino
  - sudo apt-get install aptitude
  - sudo aptitude update && sudo aptitude -y install ia32-libs
  - git clone -b ide1.5x https://github.com/justonia/ino.git
