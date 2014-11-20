@@ -1,6 +1,6 @@
 /* Ping))) Sensor
   
-   This sketch reads a PING))) ultrasonic rangefinder and returns the
+   This sketch reads a PING))) ultrasonic range finder and returns the
    distance to the closest object in range. To do this, it sends a pulse
    to the sensor to initiate a reading, then listens for a pulse 
    to return.  The length of the returning pulse is proportional to 
